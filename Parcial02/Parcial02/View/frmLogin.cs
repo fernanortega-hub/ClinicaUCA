@@ -63,6 +63,9 @@ namespace Parcial02
             {
                 MessageBox.Show($"Bienvenido {carnetid}", "Sesión iniciada",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
+		frmPrincipal principal = new frmPrincipal(result[0]);
+                principal.Show();
+                this.Hide();	
             }
             else
             {
