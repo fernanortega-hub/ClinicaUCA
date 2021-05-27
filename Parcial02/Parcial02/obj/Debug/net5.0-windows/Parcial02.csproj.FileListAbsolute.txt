@@ -1,0 +1,299 @@
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.exe
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.deps.json
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.json
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.dev.json
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csprojAssemblyReference.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.Form1.resources
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.GenerateResource.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Collections.Immutable.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.ComponentModel.Annotations.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\Parcial 02 Meta 2\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CopyComplete
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.exe
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.deps.json
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.json
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.dev.json
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csprojAssemblyReference.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.Form1.resources
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.GenerateResource.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CopyComplete
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmCreateUser.resources
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmChangePass.resources
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmPrincipal.resources
+C:\Users\OMEN\Desktop\Ciclo 03\POO\parcial02-dinastia-windsor-de-poo\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmReservation.resources
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.exe
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.deps.json
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.json
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.dev.json
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\ref\Parcial02.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.pdb
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csprojAssemblyReference.cache
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmChangePass.resources
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmCreateUser.resources
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmPrincipal.resources
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmReservation.resources
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.GenerateResource.cache
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfoInputs.cache
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfo.cs
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CoreCompileInputs.cache
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CopyComplete
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.dll
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\ref\Parcial02.dll
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.pdb
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.genruntimeconfig.cache
+E:\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmLogin.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.exe
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.deps.json
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.json
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.dev.json
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csprojAssemblyReference.cache
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmChangePass.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmCitasEx.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmCreateUser.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmLogin.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmPrincipal.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmReservation.resources
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.GenerateResource.cache
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CopyComplete
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmDatesUpdate.resources
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csprojAssemblyReference.cache
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmChangePass.resources
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmCreateUser.resources
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.frmLogin.resources
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.GenerateResource.cache
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.exe
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.deps.json
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.json
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.runtimeconfig.dev.json
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\ref\Parcial02.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Parcial02.pdb
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.csproj.CopyComplete
+C:\Users\OMEN\Desktop\Parcial021\Parcial02\Parcial02\obj\Debug\net5.0-windows\Parcial02.genruntimeconfig.cache
